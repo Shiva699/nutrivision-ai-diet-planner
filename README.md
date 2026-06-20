@@ -140,7 +140,7 @@ npm run preview
 
 For detailed information about AI features, see:
 - **[AI_FEATURES.md](AI_FEATURES.md)** - Complete AI features guide
-- **[QUICK_START_AI.md](QUICK_START_AI.md)** - Quick start guide
+- **[VITE_GROQ_API_KEY=YOUR_GROQ_API_KEY](VITE_GROQ_API_KEY=YOUR_GROQ_API_KEY)** - Quick start guide
 
 ## 🎯 Diet Functionality
 

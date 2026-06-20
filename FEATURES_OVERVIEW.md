@@ -338,8 +338,8 @@ Production: Deploy to Vercel/Netlify/etc.
 
 1. **README.md** - Main documentation
 2. **AI_FEATURES.md** - Detailed AI guide (2000+ words)
-3. **QUICK_START_AI.md** - Quick setup guide
-4. **AI_INTEGRATION_COMPLETE.md** - Integration report
+3. **VITE_GROQ_API_KEY=YOUR_GROQ_API_KEY** - Quick setup guide
+4. **VITE_GROQ_API_KEY=YOUR_GROQ_API_KEY** - Integration report
 5. **FEATURES_OVERVIEW.md** - This file
 
 ---

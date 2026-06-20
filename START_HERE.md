@@ -76,7 +76,7 @@ Go to `http://localhost:5173`
 **Read These (in order):**
 
 1. **START_HERE.md** (this file) - Quick start
-2. **QUICK_START_AI.md** - AI features guide
+2. **VITE_GROQ_API_KEY=YOUR_GROQ_API_KEY** - AI features guide
 3. **AI_FEATURES.md** - Complete documentation
 4. **README.md** - Full project docs
 5. **FEATURES_OVERVIEW.md** - Visual overview
